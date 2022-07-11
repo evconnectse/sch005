@@ -693,7 +693,8 @@ article.clients {
   vertical-align: middle;
   text-align: center;
   width: 203px;
-  height: 150px;
+  /*height: 150px;*/
+  height: auto;
   margin-right: 15px;
   margin-bottom: 15px;
 }
