@@ -121,7 +121,7 @@ a:active {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 .font-size-60 {
@@ -201,6 +201,7 @@ a:active {
 .btn {
   border-radius: 0;
   text-decoration: none !important;
+  margin-bottom: 20px;
 }
 
 .btn-main {
@@ -483,7 +484,7 @@ a:active {
   background-attachment: scroll;
   background-repeat: no-repeat;
   background-size: cover;
-
+  background-position-x: center;
   max-width: 100%;
 }
 
