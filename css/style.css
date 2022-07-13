@@ -480,9 +480,10 @@ a:active {
     call-to-action start
 --*/
 .call-to-action {
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-repeat: no-repeat;
   background-size: cover;
+
   max-width: 100%;
 }
 
